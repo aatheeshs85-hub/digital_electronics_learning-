@@ -1,4 +1,4 @@
-# Setup Time and Hold Time Simulation
+# Setup Time and Hold Time 
 
 ## Objective
 
