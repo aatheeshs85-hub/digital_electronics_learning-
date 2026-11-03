@@ -1,8 +1,8 @@
-# 4-Bit SISO Shift Register Simulation
+# 4-Bit SIPO Shift Register Simulation
 
 ## Objective
 
-To design and verify the operation of a 4-bit Serial-In Serial-Out (SISO) Shift Register using D Flip-Flops in Logisim Evolution.
+To design and verify the operation of a 4-bit Serial-In Parallel-Out (SIPO) Shift Register using D Flip-Flops in Logisim Evolution.
 
 ## Software Used
 
@@ -10,7 +10,7 @@ To design and verify the operation of a 4-bit Serial-In Serial-Out (SISO) Shift 
 
 ## Description
 
-A Serial-In Serial-Out (SISO) Shift Register is a sequential logic circuit used to store and transfer binary data serially.
+A Serial-In Parallel-Out (SIPO) Shift Register is a sequential logic circuit used to store and transfer binary data serially.
 
 It consists of four D Flip-Flops connected in series with a common clock signal.
 
@@ -84,4 +84,4 @@ The serial input data shifts through four D Flip-Flops with every rising clock e
 
 ## Conclusion
 
-A 4-bit SISO Shift Register was designed and simulated using four D Flip-Flops in Logisim Evolution v5.0.0. 
+A 4-bit SIPO Shift Register was designed and simulated using four D Flip-Flops in Logisim Evolution v5.0.0. 
